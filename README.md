@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm `TheRed`, on GitHub known as `TheRedXD`! I'm a DevOps Engineer and Music producer. Have been developing for nearly 8 years. Producing music for 3 years. From Lithuania. <span style="background-color:#aa5cff;color:white;padding-left:5px;padding-right:5px;border-radius:5px;">Pretty sick, eh?</span>
+I'm `TheRed`, on GitHub known as `TheRedXD`! I'm a DevOps Engineer and Music producer. Have been developing for nearly 8 years. Producing music for 3 years. From Lithuania. <span style="background-color:#aa5cff;color:white;padding-left:5px;padding-right:5px;border-radius:5px;"></span>
 
 <!--
 **TheRedXD/TheRedXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
